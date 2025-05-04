@@ -1,4 +1,182 @@
+
+
+
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/hQ1AMocz6S-mCC1vIqKINrVJZRc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4254094/724503.jpg" group-title="🔴EVENT•FOX•STREAM", Chelsea vs Liverpool - Premier League | 22:00 04 Mei 2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=9182
+https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=9182
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/lJypiHU0F-vQK625L32_SeUiDcw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4258500/9ec9da.jpg" group-title="🔴EVENT•FOX•STREAM", Sevilla vs Leganes - LaLiga | 21:15 04 Mei 2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=6317
+https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=6317
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/P5LlJP0qL219LT4zGDy97p7AnFo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4258494/6d1a75.jpg" group-title="🔴EVENT•FOX•STREAM", 2025 MXGP of Portugal: MX2 - Race 2 | 22:00 04 Mei 2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://fadhillah.serv00.net/scripts/vidiohls.php/stream.mpd?id=17141
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/lbo6sueXYjGDv8tLx2zKj0xzAN8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4254098/e54bb1.jpg" group-title="🔴EVENT•FOX•STREAM", [Data Zone] Chelsea vs Liverpool - Premier League | 22:20 04 Mei 2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=17639
+https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=17639
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/OgdpYexevQQvrl0KsUKx7KQgDkY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4254093/f6c547.jpg" group-title="🔴EVENT•FOX•STREAM", Roma vs Fiorentina - Serie A | 22:45 04 Mei 2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=17938
+https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=17938
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/HBVGxt63jej-gdDil8MAhsEEMSU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4258495/7a5b41.jpg" group-title="🔴EVENT•FOX•STREAM", 2025 MXGP of Portugal: MXGP - Race 2 | 23:00 04 Mei 2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://fadhillah.serv00.net/scripts/vidiohls.php/stream.mpd?id=17141
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/p8uIG2shbmWmmGm8Jx9QLPIZNrI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4258501/19d2c5.jpg" group-title="🔴EVENT•FOX•STREAM", THE CJ CUP Byron Nelson - Round 4 | 23:00 04 Mei 2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=18189
+https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=18189
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/DATp_oxM8CCkVMIt0vTkbLg7CNA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4254138/3ba334.jpg" group-title="🔴EVENT•FOX•STREAM", Espanyol vs Real Betis - LaLiga | 23:25 04 Mei 2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=6317
+https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=6317
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/kQa2Zcwdjnkoai9ujNzSMietvVI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4258870/005540.jpg" group-title="🔴EVENT•FOX•STREAM", ATP 1000: Mutua Madrid Open 2025 - Final | 23:30 04 Mei 2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=17875
+https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=17875
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/As8frkn_H1U39CuFJXziHUQJdqY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4260447/3653c4.jpg" group-title="🔴EVENT•FOX•STREAM", Bologna vs Juventus - Serie A | 01:45 05 Mei 2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=17938
+https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=17938
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/QiSXgQxWL0ofJ3gOMGguCndi2NU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4260436/db0e35.jpg" group-title="🔴EVENT•FOX•STREAM", Real Sociedad vs Athletic Club - LaLiga | 01:55 05 Mei 2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=6317
+https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=6317
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/vhnillDJMsMl2Ys3fFDeiR6FiWs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4260437/765b33.jpg" group-title="🔴EVENT•FOX•STREAM", Formula 1 Crypto.com Miami Grand Prix 2025 - Race | 02:55 05 Mei 2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=17884
+https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=17884
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/sCmZms84avtk2fw_2MmbolvKOLc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4260438/f79f5a.jpg" group-title="🔴EVENT•FOX•STREAM", Black Desert Championship presented by Greater Zion - Final Round | 05:00 05 Mei 2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=18190
+https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=18190
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/VcxpvYljCl4OVE5vwGrf2R_K-O0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4260439/3b0466.jpg" group-title="🔴EVENT•FOX•STREAM", LA Galaxy vs Sporting Kansas City - Major League Soccer | 06:00 05 Mei 2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=17139
+https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=17139
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/_cc9Oc11vSUfV-7Tz62Y4-vcMRk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4260576/774426.jpg" group-title="🔴EVENT•FOX•STREAM", Naoya Inoue vs Ramon Cardenas - Undisputed Junior Featherweight World Title | 07:00 05 Mei 2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=6685
+https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=6685
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/tLaoNymaG8m5vjZWDkwYZUUK-o8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4260440/9c04f7.jpg" group-title="🔴EVENT•FOX•STREAM", Playoffs - Game 7: Golden State Warriors vs Houston Rockets - NBA | 07:30 05 Mei 2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=6786
+https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=6786
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/09TtHE76gCUyj2nLw1zesoTWKEM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4260442/1ee1df.jpg" group-title="🔴EVENT•FOX•STREAM", Men Final: Suntory Sunbirds Osaka vs JTEKT Stings Aichi - SV.League | 14:10 05 Mei 2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=18346
+https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=18346
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/AEW1JLEg-AHUbK-8kDJed9HI-yw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4260443/0a0f67.jpg" group-title="🔴EVENT•FOX•STREAM", Jelang Kick Off - Persik Kediri vs Persebaya Surabaya - BRI Liga 1 | 15:00 05 Mei 2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://elitestreamid.xyz/scripts/vidio/drm.php?id=17850
+https://elitestreamid.xyz/scripts/vidio/dash.php?id=17850
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/evnAl5lLDDh_3k1KavYaCznzx3E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4260444/f67ce6.jpg" group-title="🔴EVENT•FOX•STREAM", Persik Kediri vs Persebaya Surabaya - BRI Liga 1 | 15:30 05 Mei 2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://elitestreamid.xyz/scripts/vidio/drm.php?id=17624
+https://elitestreamid.xyz/scripts/vidio/dash.php?id=17624
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ecqo1RBq7VPglkNeQ9VT8zrPHqc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4260446/b80825.jpg" group-title="🔴EVENT•FOX•STREAM", Jelang Kick Off - Persis vs Arema FC - BRI Liga 1 | 18:30 05 Mei 2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://elitestreamid.xyz/scripts/vidio/drm.php?id=17850
+https://elitestreamid.xyz/scripts/vidio/dash.php?id=17850
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/j3HrpXYUbjO_U5eW9CD7CPuz_Q0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4260445/c0614c.jpg" group-title="🔴EVENT•FOX•STREAM", Persis vs Arema FC - BRI Liga 1 | 19:00 05 Mei 2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://elitestreamid.xyz/scripts/vidio/drm.php?id=17624
+https://elitestreamid.xyz/scripts/vidio/dash.php?id=17624
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wkC2fe.jpg",5. LALIGA Channel 01
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
