@@ -1,51 +1,4 @@
-
-
-
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/hQ1AMocz6S-mCC1vIqKINrVJZRc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4254094/724503.jpg" group-title="🔴EVENT•FOX•STREAM", Chelsea vs Liverpool - Premier League | 22:00 04 Mei 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=9182
-https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=9182
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/lJypiHU0F-vQK625L32_SeUiDcw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4258500/9ec9da.jpg" group-title="🔴EVENT•FOX•STREAM", Sevilla vs Leganes - LaLiga | 21:15 04 Mei 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=6317
-https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=6317
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/P5LlJP0qL219LT4zGDy97p7AnFo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4258494/6d1a75.jpg" group-title="🔴EVENT•FOX•STREAM", 2025 MXGP of Portugal: MX2 - Race 2 | 22:00 04 Mei 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://fadhillah.serv00.net/scripts/vidiohls.php/stream.mpd?id=17141
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/lbo6sueXYjGDv8tLx2zKj0xzAN8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4254098/e54bb1.jpg" group-title="🔴EVENT•FOX•STREAM", [Data Zone] Chelsea vs Liverpool - Premier League | 22:20 04 Mei 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=17639
-https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=17639
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/OgdpYexevQQvrl0KsUKx7KQgDkY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4254093/f6c547.jpg" group-title="🔴EVENT•FOX•STREAM", Roma vs Fiorentina - Serie A | 22:45 04 Mei 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=17938
-https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=17938
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/HBVGxt63jej-gdDil8MAhsEEMSU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4258495/7a5b41.jpg" group-title="🔴EVENT•FOX•STREAM", 2025 MXGP of Portugal: MXGP - Race 2 | 23:00 04 Mei 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://fadhillah.serv00.net/scripts/vidiohls.php/stream.mpd?id=17141
-
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/p8uIG2shbmWmmGm8Jx9QLPIZNrI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4258501/19d2c5.jpg" group-title="🔴EVENT•FOX•STREAM", THE CJ CUP Byron Nelson - Round 4 | 23:00 04 Mei 2025
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -54,23 +7,15 @@ https://fadhillah.serv00.net/scripts/vidiohls.php/stream.mpd?id=17141
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=18189
 https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=18189
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/DATp_oxM8CCkVMIt0vTkbLg7CNA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4254138/3ba334.jpg" group-title="🔴EVENT•FOX•STREAM", Espanyol vs Real Betis - LaLiga | 23:25 04 Mei 2025
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/sCmZms84avtk2fw_2MmbolvKOLc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4260438/f79f5a.jpg" group-title="🔴EVENT•FOX•STREAM", Black Desert Championship presented by Greater Zion - Final Round | 00:30 05 Mei 2025
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=6317
-https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=6317
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=18190
+https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=18190
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/kQa2Zcwdjnkoai9ujNzSMietvVI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4258870/005540.jpg" group-title="🔴EVENT•FOX•STREAM", ATP 1000: Mutua Madrid Open 2025 - Final | 23:30 04 Mei 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=17875
-https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=17875
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/As8frkn_H1U39CuFJXziHUQJdqY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4260447/3653c4.jpg" group-title="🔴EVENT•FOX•STREAM", Bologna vs Juventus - Serie A | 01:45 05 Mei 2025
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/As8frkn_H1U39CuFJXziHUQJdqY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4260447/3653c4.jpg" group-title="🔴EVENT•FOX•STREAM", Bologna vs Juventus - Serie A | 01:15 05 Mei 2025
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -93,14 +38,6 @@ https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=6317
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=17884
 https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=17884
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/sCmZms84avtk2fw_2MmbolvKOLc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4260438/f79f5a.jpg" group-title="🔴EVENT•FOX•STREAM", Black Desert Championship presented by Greater Zion - Final Round | 05:00 05 Mei 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=18190
-https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=18190
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/VcxpvYljCl4OVE5vwGrf2R_K-O0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4260439/3b0466.jpg" group-title="🔴EVENT•FOX•STREAM", LA Galaxy vs Sporting Kansas City - Major League Soccer | 06:00 05 Mei 2025
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
@@ -166,475 +103,40 @@ https://elitestreamid.xyz/scripts/vidio/dash.php?id=17850
 #KODIPROP:inputstream.adaptive.license_key=https://elitestreamid.xyz/scripts/vidio/drm.php?id=17624
 https://elitestreamid.xyz/scripts/vidio/dash.php?id=17624
 
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wkC2fe.jpg",5. LALIGA Channel 01
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://windnew.newkso.ru/wind/premium276/mono.m3u8
-
-#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wkC2fe.jpg",5. LALIGA Channel 02
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://ddy6new.newkso.ru/ddy6/premium415/mono.m3u8
-
-#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wkC2fe.jpg",5. LALIGA Channel 03
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://v1.thetvapp.to/hls/tsn4/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wkC2fe.jpg",5. LALIGA Channel 04
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
-
-
-#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wkC2fe.jpg",5. LALIGA Channel 05
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
-
-
-#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wkC2fe.jpg",5. LALIGA Channel 06
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
-https://aka-live1-ott.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd
-
-#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wkC2fe.jpg",5. LALIGA Channel 07
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://dokko1new.newkso.ru/dokko1/premium539/mono.m3u8
-
-#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wkC2fe.jpg",5. LALIGA Channel 08
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium432/mono.m3u8
-
-
-========================================================================================================================================================================================================================================
-
-#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3hEl4ix.jpg",5. PREMIER LEAGUE CH 01
-#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://windnew.newkso.ru/wind/premium599/mono.m3u8
-
-
-#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3hEl4ix.jpg",5. PREMIER LEAGUE CH 02
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://nfsnew.newkso.ru/nfs/premium343/mono.m3u8
-
-#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3hEl4ix.jpg",5. PREMIER LEAGUE CH 03
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddy6new.newkso.ru/ddy6/premium432/mono.m3u8
-
-#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3hEl4ix.jpg",5. PREMIER LEAGUE CH 04
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://watch-fr-1.brawlserver.com/e86bb935-fa8a-48f4-b66d-26a234d64969.m3u8
-
-#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3hEl4ix.jpg",5. PREMIER LEAGUE CH 05
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3hEl4ix.jpg",5. PREMIER LEAGUE CH 06
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3hEl4ix.jpg",5. PREMIER LEAGUE CH 07
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-http://geogersr.itilstrem.workers.dev/http://www.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
-
-
-#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3hEl4ix.jpg",5. PREMIER LEAGUE CH 08
-#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://219.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3hEl4ix.jpg",5. PREMIER LEAGUE CH 09
-#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://219.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
-
-
-========================================================================================================================================================================================================================================
-
-
-
-
-#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wgCLf2.jpg",5. SERIE A CH 01
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://windnew.newkso.ru/wind/premium870/mono.m3u8
-
-#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wgCLf2.jpg",5. SERIE A CH 02
-#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://ddy6new.newkso.ru/ddy6/premium427/mono.m3u8
-
-
-#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wgCLf2.jpg",5. SERIE A CH 03
-#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://ddy6new.newkso.ru/ddy6/premium426/mono.m3u8
-
-
-#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wgCLf2.jpg",5. SERIE A CH 04
-#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://windnew.newkso.ru/wind/premium916/mono.m3u8
-
-#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wgCLf2.jpg",5. SERIE A CH 05
-#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://windnew.newkso.ru/wind/premium914/mono.m3u8
-
-#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wgCLf2.jpg",5. SERIE A CH 06
-#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-http://kstv.us:8080/live/tH300gvHff/8606073792/48498.m3u8
-
-#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wgCLf2.jpg",5. SERIE A CH 07
-#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-http://kstv.us:8080/live/tH300gvHff/8606073792/48497.m3u8
-
-#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wgCLf2.jpg",5. SERIE A CH 08
-#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-http://kstv.us:8080/live/tH300gvHff/8606073792/48499.m3u8
-
-
-#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wgCLf2.jpg",5. SERIE A CH 09
-#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://ddy6new.newkso.ru/ddy6/premium474/mono.m3u8
-
-
-#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wgCLf2.jpg",5. SERIE A CH 10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
-https://dokko1new.newkso.ru/dokko1/premium623/mono.m3u8
-
-
-==========================================================================================================================================================================================================================================================================================================================================================================================================================================================================
-
-
-#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wgCQlS.jpg",5. BUNDESLIGA CH 01
-#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://watch-fr-1.brawlserver.com/4f161781-2351-4dd2-a7f9-1e1e85bbe9eb.m3u8
-
-#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wgCQlS.jpg",5. BUNDESLIGA CH 02
-#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://watch-fr-1.brawlserver.com/9aa4f7b6-c6e2-421e-9e0e-9540d7edee03.m3u8
-
-#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wgCQlS.jpg",5. BUNDESLIGA CH 03
-#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://watch-fr-1.brawlserver.com/96a10629-cd15-4995-8d74-bdde60b6f152.m3u8
-
-#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wgCQlS.jpg",5. BUNDESLIGA CH 04
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
-https://aka-live1-ott.izzigo.tv/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd
-
-#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wgCQlS.jpg",5. BUNDESLIGA CH 05
-#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://ddy6new.newkso.ru/ddy6/premium729/mono.m3u8
-
-#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wgCQlS.jpg",5. BUNDESLIGA CH 06
-#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://ddy6new.newkso.ru/ddy6/premium427/mono.m3u8
-
-#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wgCQlS.jpg",5. BUNDESLIGA CH 07
-#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-https://x4new.newkso.ru/x4/dazn1de/mono.m3u8
-
-#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wgCQlS.jpg",5. BUNDESLIGA CH 08
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-http://tooontv.com:999/live/ere3444h/agape/45695.ts 
-#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wgCQlS.jpg",5. BUNDESLIGA CH 09
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-http://tooontv.com:999/live/ere3444h/agape/45694.ts
-
-
-
-=======================================================================================================================================================================================================================================
-
-#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wUsjCQ.jpg",5. LIGA ARAB CH 01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/NosOGgExdpwgtKKZ0obpJfO-iOg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4262486/42c029.jpg" group-title="🔴EVENT•FOX•STREAM", Genoa vs Milan - Serie A | 01:45 06 Mei 2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0c900a7eae0097e0977141b68c9bffc4:fa534e6d48eccf905a449051a5e280c8
-https://a122aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/k2dcwnlpgr/out/v1/0502dc73a24b43a79c042bf2d14f6b84/cenc.mpd
-
-#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wUsjCQ.jpg",5. LIGA ARAB CH 02
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
-https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
-
-#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wUsjCQ.jpg",5. LIGA ARAB CH 03
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
-https://ssc-2-enc.edgenextcdn.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
-
-#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wUsjCQ.jpg",5. LIGA ARAB CH 04
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7de5dd08ad8041d586c2f16ccc9490a1:5e1503f3398b34f5099933fedab847ef
-https://ssc-3-enc.edgenextcdn.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd
-
-#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wUsjCQ.jpg",5. LIGA ARAB CH 05
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5c672f6b85a94638872d0214f7806ed4:bf8756fbb866ee2d5c701c2289dd8de3
-https://ssc-4-enc.edgenextcdn.net/out/v1/5267ea5772874b0db24559d643eaad93/index.mpd
-
-#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wUsjCQ.jpg",5. LIGA ARAB CH 06
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c88b512b17ab4f6cb09eb0ff4a1056ed:adc08ee1c20a734972a55c9aebbd1888
-https://ssc-5-enc.edgenextcdn.net/out/v1/99289eac5a7b4319905da595afbd792b/index.mpd
-
-#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wUsjCQ.jpg",5. LIGA ARAB CH 08
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
-https://ssc-extra-1-enc.edgenextcdn.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd
-
-#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wUsjCQ.jpg",5. LIGA ARAB CH 09
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4d89249bd4ca4ebc9e70443265f9507d:cf074ffd2646c9c2f8513b47fa57bc30
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
-https://ssc-extra-2-enc.edgenextcdn.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/index.mpd
-
-#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wUsjCQ.jpg",5. LIGA ARAB CH 10
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=98cfd6fd4812497fb24dc75f7545f2ee:d3006ee69e77b25939728ebf30d3180a
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
-https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd
-
-
-
-
-==============================================================================================================================================================================================================================================================================================================================================================================================================================================
-
-
-
-
-
-#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wihduV.jpg",5. LIGA PRANCIS CH 01
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://windnew.newkso.ru/wind/premium464/mono.m3u8
-
-#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wihduV.jpg",5. LIGA PRANCIS CH 02
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://dokko1new.newkso.ru/dokko1/premium74/mono.m3u8
-
-#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wihduV.jpg",5. LIGA PRANCIS CH 03
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://dokko1new.newkso.ru/dokko1/premium92/mono.m3u8
-
-#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wihduV.jpg",5. LIGA PRANCIS CH 04
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://zekonew.newkso.ru/zeko/premium64/mono.m3u8
-
-#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wihduV.jpg",5. LIGA PRANCIS CH 05
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://x4new.newkso.ru/x4/arenasport1serbia/mono.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://iili.io/3wQCYJf.jpg" group-title="🔴EVENT•BALAP" , F1 GP 🇪🇸
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://iili.io/3wQCYJf.jpg" group-title="🔴EVENT•BALAP" , F1 GP 🇦🇹
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=17938
+https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=17938
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/z-OGHZDpQUxNxSThCAZlmNDJRZs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4262341/b761be.jpg" group-title="🔴EVENT•FOX•STREAM", Crystal Palace vs Nott'm Forest - Premier League | 02:00 06 Mei 2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://viamotionhsi.netplus.ch/live/eds/orf1/browser-dash/orf1.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=9182
+https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=9182
 
-#EXTINF:-1 tvg-id="BandSports HD.br" tvg-logo="https://iili.io/3wQCYJf.jpg" group-title="🔴EVENT•BALAP",  F1 TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://s.id/oneftv
-
-```````` FORMULA GLEDEK ````````
-
-#EXTINF:-1 group-logo="https://i.ibb.co.com/k4H3F7w/formulagledek.png", 
-
-
-
-#EXTINF:-1 group-title="🔴EVENT•BALAP" tvg-id="TNTSports3.uk" tvg-logo="https://iili.io/3wQCGs9.jpg", E-PRIX 🇬🇧
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/eeF7hC8CgEYAM6QhCiDIivfQkEY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4262342/07c620.jpg" group-title="🔴EVENT•FOX•STREAM", Girona vs Mallorca - LaLiga | 02:00 06 Mei 2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=6317
+https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=6317
 
-#EXTINF:-1 group-title="🔴EVENT•BALAP" tvg-id="SSC 2" tvg-logo="https://iili.io/3wQCGs9.jpg", E-PRIX 🇸🇦
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
-https://ssc-2-enc.edgenextcdn.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
-
-#EXTINF:-1 tvg-id="SPOTV HD - [Channel 427].id"  group-title="🔴EVENT•BALAP" tvg-logo="https://iili.io/3wQCGs9.jpg", E-PRIX 🇮🇩
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
-
-#EXTINF:-1 tvg-id="SPOTV HD - [Channel 428].id"  group-title="🔴EVENT•BALAP" tvg-logo="https://iili.io/3wQCGs9.jpg", E-PRIX 🇮🇩
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
-
-#EXTINF:-1 tvg-id="SPOTV HD - [Channel 427].id"  group-title="🔴EVENT•BALAP" tvg-logo="https://iili.io/3wQCGs9.jpg", E-PRIX 🇵🇭
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
-
-#EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id"  group-title="🔴EVENT•BALAP" tvg-logo="https://iili.io/3wQCGs9.jpg", E-PRIX 🇵🇭
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
-https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
-
-
-#EXTINF:-1 tvg-id="SPOTV HD - [Channel 427].id"  group-title="🔴EVENT•BALAP" tvg-logo="https://iili.io/3wQCGs9.jpg", E-PRIX 🇵🇭
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
-
-```````` MotoGP ````````
-
-
-#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-logo="https://iili.io/3wQClb2.jpg" group-title="🔴EVENT•BALAP", MotoGP 🇬🇧
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/3wQClb2.jpg" group-title="🔴EVENT•BALAP", MotoGP 🇱🇹
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8315b1996d92477b965cb29100a3dc07:0081c0674e9047e219caa27a07da9d4b
-https://tr.live.cdn.cgates.lt/live/dash/560505/index.mpd
-
-#EXTINF:-1 tvg-id="SPOTV HD - [Channel 427].id" tvg-logo="https://iili.io/3wQClb2.jpg" group-title="🔴EVENT•BALAP", MotoGP 🇬🇧
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
-
-#EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id" tvg-logo="https://iili.io/3wQClb2.jpg" group-title="🔴EVENT•BALAP", MotoGP 🇬🇧
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
-
-#EXTINF:-1 tvg-id="SSC 2" tvg-logo="https://iili.io/3wQClb2.jpg" group-title="🔴EVENT•BALAP", MotoGP 🇸🇦
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
-https://ssc-2-enc.edgenextcdn.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/E-RAHT-vDRCZPOyLkOGhbOdfSeI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4262485/aea1de.jpg" group-title="🔴EVENT•FOX•STREAM", Semifinal: Inter vs Barcelona - UEFA Champions League | 01:40 07 Mei 2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=17883
+https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=17883
 
 
 
-
-```````` SBK•MOTUL ````````
-
-
-#EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id"  tvg-logo="https://iili.io/3wQM80u.jpg" group-title="🔴EVENT•BALAP", SBK•MOTUL 🇵🇭
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
-https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
-
-#EXTINF:-1 tvg-id="SPOTV HD - [Channel 427].id"  tvg-logo="https://iili.io/3wQM80u.jpg" group-title="🔴EVENT•BALAP", SBK•MOTUL 🇮🇩
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
-
-#EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id"  tvg-logo="https://iili.io/3wQM80u.jpg" group-title="🔴EVENT•BALAP", SBK•MOTUL 🇮🇩
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
 
 
