@@ -94,6 +94,23 @@ https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=17875
 
 ==============================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
 
+#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3hElrVj.jpg",5.SPORTSTARS 3 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=https://multidrm.core.verimatrixcloud.net/widevine
+#KODIPROP:inputstream.adaptive.license_key=https://kitasaudara.my.id/play/pision/drm.php?id=112
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+
+
+
+#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3hElrVj.jpg",5.SPORTSTARS 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=https://multidrm.core.verimatrixcloud.net/widevine
+#KODIPROP:inputstream.adaptive.license_key=https://lapakking.com/play/sportstars/milikkingtv.php?id=ss3&type=drm
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+
+
 
 #EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3hElrVj.jpg",5. BRI LIGA 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (m3u-ip.tv 2.3.10) Android
