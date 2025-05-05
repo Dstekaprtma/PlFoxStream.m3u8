@@ -92,14 +92,20 @@ https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=17875
 
 
 
-==============================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
 
-#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3hElrVj.jpg",5.SPORTSTARS 3 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=https://multidrm.core.verimatrixcloud.net/widevine
-#KODIPROP:inputstream.adaptive.license_key=https://kitasaudara.my.id/play/pision/drm.php?id=112
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+
+
+
+
+
+
+
+
+
+
+
+
+==============================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
 
 
 
@@ -122,6 +128,34 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2706.ts
 
 ============================================================================================================================================SERIE A==================================================================================================================================================================================================
 
+
+
+#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wgCLf2.jpg",5. Max Sport 3 Bulgaria
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://ddy6new.newkso.ru/ddy6/premium474/mono.m3u8
+
+#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wgCLf2.jpg",5. SETANTA SPORT 1 🇱🇹
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab2332442854e62b0018eec3ee58484:37fdee8b6eef5c96001e8c6fc47bfc08
+https://tr.live.cdn.cgates.lt/live/dash/561002/index.mpd
+
+#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wgCLf2.jpg",5. Champions TV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=17938&type=drm
+https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17938&type=dash
+
+#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wgCLf2.jpg",5. Sport TV2 Portugal
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://dokko1new.newkso.ru/dokko1/premium74/mono.m3u8
+
+
 #EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wgCLf2.jpg",5. Arena Sport 2 Premium
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
@@ -138,13 +172,6 @@ https://ddy6new.newkso.ru/ddy6/premium135/mono.m3u8
 https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
 
 
-#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wgCLf2.jpg",5. BEIN SPORT 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
 #EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wgCLf2.jpg",5. ABU DHABI SPORT 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -155,32 +182,13 @@ https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
 #EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wgCLf2.jpg",5. Si Solo Calcio 
 https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wgCLf2.jpg",5. Si Solo Calcio 
-https://italiansport-solocalcio-samsung.amagi.tv/amRdirect/device[did]=%7BPSID%7D&device[dnt]=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&tc_string=%7BTC_STRING%7D&gdpr=%7BGDPR%7D/hls/amagi_hls_data_sportital-solocalcio-samsung-italy/CDN/1280x720_2560800/index.m3u8
 
-#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wgCLf2.jpg",5. SPORTITALIA PLUS 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
-
-#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wgCLf2.jpg",5. SPORTITALIA PLUS 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=&ads_rtvid=271861&ads_streaming_id=4f185419-74f6-4564-8ea9-4cdc60746e2f&ads_amagi_channel=781&ads_device_type=web&ads_device_model=&ads_device_year=&ads_player_width=&ads_rtv_content_language=ita&ads_market=it&ads_rtv_content_id=3741&ads_device_make=&ads_user_type=visitor&ads_content_classification=6&ads_gdpr_consent=&ads_device_lmt=1&ads_player_height=&uid=1gnmqg5gu-qsvc-bfo-gaq3-3dgjgexshpe/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
 
 #EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wgCLf2.jpg",5. COSMOTE 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://dokko1new.newkso.ru/dokko1/premium623/mono.m3u8
 
-#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wgCLf2.jpg",5. CYTAVISION 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://windnew.newkso.ru/wind/premium912/mono.m3u8
-
-
-#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wgCLf2.jpg",5. CYTAVISION 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://windnew.newkso.ru/wind/premium913/mono.m3u8
 
 #EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wgCLf2.jpg",5. CYTAVISION 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -190,9 +198,10 @@ https://windnew.newkso.ru/wind/premium914/mono.m3u8
 
 
 #EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wgCLf2.jpg",5.   ZIGGO SPORT 2 🇳🇱
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0
-https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium398/mono.m3u8
 
 ============================================================================================================================================LALIGA==================================================================================================================================================================================================
 
@@ -208,10 +217,7 @@ https://tr.live.cdn.cgates.lt/live/dash/560502/index.mpd
 
 
 
-#EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wkC2fe.jpg",5.  ZIGGO SPORT 2 🇳🇱
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0
-https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,
+
 
 
 #EXTINF:-1 group-title="🔴CH•LIVE•EVENT" tvg-logo="https://iili.io/3wkC2fe.jpg",5.  LALIGA 2
