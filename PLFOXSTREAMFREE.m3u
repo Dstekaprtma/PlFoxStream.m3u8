@@ -1,36 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/sHi0gF3npVlhETlyB32HI-xO-rg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4265640/1e2715.jpg" group-title="🔴LIVE•EVENT•ONLY", Chan Yin Chak/Ng Tsz Yau (HKG) vs Zhi-Wei He/Yan Fei Chen (TPE) - Mixed Doubles Qualification | Yonex Taipei Open 2025 | 08:00 06 Mei 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=18249
-https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=18249
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/1JITGkrgOzm5MxN1hCUiE9f4aJM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4265649/6a3369.jpg" group-title="🔴LIVE•EVENT•ONLY", Tsai Fu Cheng/Sung Yu-Hsuan (TPE) vs Chen Zhi Ray/Yang Ching Tun (TPE) - Mixed Doubles Qualification | Yonex Taipei Open 2025 | 08:00 06 Mei 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=18250
-https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=18250
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Tod_z2mvIDs3MW0vkFpAX1LLohw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4265644/3368dc.jpg" group-title="🔴LIVE•EVENT•ONLY", Bo-Yuan Chen/Liang Ching Sun (TPE) vs Supak Jomkoh/Ornicha Jongsathapornparn (THA) - Mixed Doubles Qualification | Yonex Taipei Open 2025 | 08:05 06 Mei 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=18252
-https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=18252
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/bq_JwMHDcS_ILTZ3Asq7NwW8gXQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4265695/7c7e47.jpg" group-title="🔴LIVE•EVENT•ONLY", Mansi Singh (IND) vs Pitchamon Opatniputh (THA) - Women's Singles Qualification | Yonex Taipei Open 2025 | 08:06 06 Mei 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=18253
-https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=18253
-
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/j53gy4d7QSZa4nOxBblaL1xuPuE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4262485/b3aab4.jpg" group-title="🔴LIVE•EVENT•ONLY", Semifinal: Inter vs Barcelona - UEFA Champions League | 01:40 07 Mei 2025
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -47,13 +15,37 @@ https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=17883
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=6786
 https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=6786
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/itBHMHw25sgTHVmYG5vfnwmWemw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4265516/592c7c.jpg" group-title="🔴LIVE•EVENT•ONLY", ATP 1000: Internazionali BNL d'Italia 2025 - Day 1 | 16:00 07 Mei 2025
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/SNCNL8YqrixmMrSFRT0TzbMwilU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-taipei-open-2025-qualifiers-r32-court-1-5d51bc.jpg" group-title="🔴LIVE•EVENT•ONLY", Amri Syahnawi/Nita Violina Marwah (INA) vs Tsai Fu Cheng/Sung Yu-Hsuan (TPE) - Mixed Doubles Round of 32 | Yonex Taipei Open 2025 | 08:00 07 Mei 2025
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=17875
-https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=17875
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=18249
+https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=18249
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/XCu8O1SREOthPwMrB96J8nAwn28=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-taipei-open-2025-qualifiers-r32-court-2-571cc2.jpg" group-title="🔴LIVE•EVENT•ONLY", Yonex Taipei Open 2025 - R32 (Court 2) | 08:00 07 Mei 2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=18250
+https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=18250
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/c2dYU_xwh8q8n2aKCkVRwlv7HBA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/yonex-taipei-open-2025-qualifiers-r32-court-3-677d56.jpg" group-title="🔴LIVE•EVENT•ONLY", Yonex Taipei Open 2025 - R32 (Court 3) | 08:00 07 Mei 2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=18252
+https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=18252
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/IWKlXba31VIupehumPto2SK75UQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/yonex-taipei-open-2025-qualifiers-r32-court-4-0228a9.jpg" group-title="🔴LIVE•EVENT•ONLY", Yonex Taipei Open 2025 - R32 (Court 4) | 08:00 07 Mei 2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=18253
+https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=18253
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/s3RWlexua5xcki5jF-J7fEg-vfg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4265311/1ca3a8.jpg" group-title="🔴LIVE•EVENT•ONLY", WTA 1000: Internazionali BNL d'Italia - Day 1 | 16:00 07 Mei 2025
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
@@ -62,6 +54,14 @@ https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=17875
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=6786
 https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=6786
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/itBHMHw25sgTHVmYG5vfnwmWemw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4265516/592c7c.jpg" group-title="🔴LIVE•EVENT•ONLY", ATP 1000: Internazionali BNL d'Italia 2025 - Day 1 | 16:00 07 Mei 2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=17875
+https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=17875
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/9I15TNm0VlIueJNZdQ3GV9txemg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4265456/b2923e.jpg" group-title="🔴LIVE•EVENT•ONLY", Al Raed vs Al Hilal - ROSHN Saudi League | 23:00 07 Mei 2025
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
@@ -87,6 +87,14 @@ https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=6786
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=6299
 https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=6299
 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/WvLeojhJKW_miULV8VQtuNGyNT4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4265797/951525.jpg" group-title="🔴LIVE•EVENT•ONLY", Conference Semifinals - Game 2: New York Knicks vs Boston Celtics - NBA | 06:00 08 Mei 2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=6786
+https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=6786
+
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/x3kuCoQcE3imARGIDpN2WcYCJx8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4262530/6e9ee1.jpg" group-title="🔴LIVE•EVENT•ONLY", Semifinal: Chelsea vs Djurgarden - UEFA Conference League | 01:55 09 Mei 2025
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -103,6 +111,14 @@ https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=17875
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=18007
 https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=18007
 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Xx7jsatVBhCwjleifrogARu4caE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4265458/4ba45a.jpg" group-title="🔴LIVE•EVENT•ONLY", Semifinal: Bodo/Glimt vs Tottenham - UEFA Europa League | 02:00 09 Mei 2025
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=18389
+https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=18389
+
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/BXvHaVckijkP--skTlX6YDtMdTM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4265313/5b2c19.jpg" group-title="🔴LIVE•EVENT•ONLY", Semifinal: Man United vs Athletic Club - UEFA Europa League | 02:00 09 Mei 2025
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -111,13 +127,7 @@ https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=18007
 #KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=6299
 https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=6299
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Xx7jsatVBhCwjleifrogARu4caE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4265458/4ba45a.jpg" group-title="🔴LIVE•EVENT•ONLY", Semifinal: Bodo/Glimt vs Tottenham - UEFA Europa League | 02:00 09 Mei 2025
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://fadhillah.serv00.net/scripts/vidiodrm.php/stream.mpd?id=18389
-https://fadhillah.serv00.net/scripts/vidiodash.php/stream.mpd?id=18389
+
 
 
 
