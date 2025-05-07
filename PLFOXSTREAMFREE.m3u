@@ -3818,8 +3818,67 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/manifest.mpd
 
 
 
-====================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CH•PARAMOUNT+ ORIGINAL 1 ᴴᴰ" tvg-logo="https://iili.io/iOEYDF.md.png" group-title="CH•PARAMOUNT+",CH•PARAMOUNT+ ORIGINAL 1 ᴴᴰ
+https://d1u759uj1dqui6.cloudfront.net/1095583
+#EXTINF:-1 tvg-id="" tvg-name="CH•PARAMOUNT+ ORIGINAL 2 ᴴᴰ" tvg-logo="https://iili.io/iOEYDF.md.png" group-title="CH•PARAMOUNT+",CH•PARAMOUNT+ ORIGINAL 2 ᴴᴰ
+https://d1u759uj1dqui6.cloudfront.net/1095582
+#EXTINF:-1 tvg-id="" tvg-name="CH•PARAMOUNT+ ORIGINAL 3 ᴴᴰ" tvg-logo="https://iili.io/iOEYDF.md.png" group-title="CH•PARAMOUNT+",CH•PARAMOUNT+ ORIGINAL 3 ᴴᴰ
+https://d1u759uj1dqui6.cloudfront.net/1095581
+#EXTINF:-1 tvg-id="" tvg-name="CH•PARAMOUNT+ ORIGINAL 4 ᴴᴰ" tvg-logo="https://iili.io/iOEYDF.md.png" group-title="CH•PARAMOUNT+",CH•PARAMOUNT+ ORIGINAL 4 ᴴᴰ
+https://d1u759uj1dqui6.cloudfront.net/1095580
+#EXTINF:-1 tvg-id="" tvg-name="CH•PARAMOUNT+ ORIGINAL 5 ᴴᴰ" tvg-logo="https://iili.io/iOEYDF.md.png" group-title="CH•PARAMOUNT+",CH•PARAMOUNT+ ORIGINAL 5 ᴴᴰ
+https://d1u759uj1dqui6.cloudfront.net/1095579
+#EXTINF:-1 tvg-id="" tvg-name="CH•PARAMOUNT+ ORIGINAL 6 ᴴᴰ" tvg-logo="https://iili.io/iOEYDF.md.png" group-title="CH•PARAMOUNT+",CH•PARAMOUNT+ ORIGINAL 6 ᴴᴰ
+https://d1u759uj1dqui6.cloudfront.net/1095578
+#EXTINF:-1 tvg-id="" tvg-name="CH•PARAMOUNT+ ORIGINAL 7 ᴴᴰ" tvg-logo="https://iili.io/iOEYDF.md.png" group-title="CH•PARAMOUNT+",CH•PARAMOUNT+ ORIGINAL 7 ᴴᴰ
+https://d1u759uj1dqui6.cloudfront.net/1095577
+#EXTINF:-1 tvg-id="" tvg-name="CH•PARAMOUNT+ ORIGINAL 8 ᴴᴰ" tvg-logo="https://iili.io/iOEYDF.md.png" group-title="CH•PARAMOUNT+",CH•PARAMOUNT+ ORIGINAL 8 ᴴᴰ
+https://d1u759uj1dqui6.cloudfront.net/1095576
+#EXTINF:-1 tvg-id="" tvg-name="CH•PARAMOUNT+ ORIGINAL 9 ᴴᴰ" tvg-logo="https://iili.io/iOEYDF.md.png" group-title="CH•PARAMOUNT+",CH•PARAMOUNT+ ORIGINAL 9 ᴴᴰ
+https://d1u759uj1dqui6.cloudfront.net/1095575
+#EXTINF:-1 tvg-id="" tvg-name="CH•PARAMOUNT+ ORIGINAL 10 ᴴᴰ" tvg-logo="https://iili.io/iOEYDF.md.png" group-title="CH•PARAMOUNT+",CH•PARAMOUNT+ ORIGINAL 10 ᴴᴰ
+https://d1u759uj1dqui6.cloudfront.net/1095574
+
+
+
+====================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2_off/sports/astro_pl1_340.png" group-title="FOX•SPORTS",ASTRO PREMIER LEAGUE 1
+#EXTVLCOPT:http-user-agent=fz3pEa8OnDcsC14e8fEc5Pb23KvK0PT62jUZWwhiMxc=
+http://play-gachor.online/hmtv_btm/dnSQrmTezq/332
+
+
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2_off/sports/astro_pl2_340.png" group-title="FOX•SPORTS",ASTRO PREMIER LEAGUE 2
+#EXTVLCOPT:http-user-agent=fz3pEa8OnDcsC14e8fEc5Pb23KvK0PT62jUZWwhiMxc=
+http://play-gachor.online/hmtv_btm/dnSQrmTezq/333
+
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2_off/sports/astro_football_340.png" group-title="FOX•SPORTS",ASTRO FOOTBALL
+#EXTVLCOPT:http-user-agent=fz3pEa8OnDcsC14e8fEc5Pb23KvK0PT62jUZWwhiMxc=
+http://play-gachor.online/hmtv_btm/dnSQrmTezq/334
+
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2_off/sports/astro_grandstand_340.png" group-title="FOX•SPORTS",ASTRO GRANDSTAND
+#EXTVLCOPT:http-user-agent=fz3pEa8OnDcsC14e8fEc5Pb23KvK0PT62jUZWwhiMxc=
+http://play-gachor.online/hmtv_btm/dnSQrmTezq/335
+
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2_off/sports/astro_sportsplus_340.png" group-title="FOX•SPORTS",ASTRO SPORTS +
+#EXTVLCOPT:http-user-agent=fz3pEa8OnDcsC14e8fEc5Pb23KvK0PT62jUZWwhiMxc=
+http://play-gachor.online/hmtv_btm/dnSQrmTezq/6206
 
 #EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://iili.io/2lP4Kq7.png" group-title="FOX•SPORTS",Champions TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
